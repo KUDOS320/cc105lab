@@ -5,7 +5,7 @@ STEP BY STEP INSTRUCTIONS:
 
 2nd: pipenv shell
 
-3rd: pipenv install Django after pipenv install pymysql
+3rd: pipenv install Django after that pipenv install pymysql
 
 4th: pip freeze " ONLY TO CHECK IF IT IS ALREADY INSTALLED "
 
@@ -20,7 +20,7 @@ to create an app folder in the terminal
 Django-admin startapp (name)
 after that
 
-go to the settings.py and put the app name and get the config in the apps.py e.g.(aso.apps.AsoConfig)
+go to the settings.py and put the app name and get the config in the apps.py e.g.(clint.apps.ClintConfig)
 
 then create an url file in the app folder and name it urls.py
 
